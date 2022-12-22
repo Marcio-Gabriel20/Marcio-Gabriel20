@@ -7,7 +7,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Gabriel20&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div><br>
+<div align="center"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
