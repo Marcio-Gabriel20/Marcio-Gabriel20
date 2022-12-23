@@ -3,13 +3,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/Marcio-Gabriel20">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio-Gabriel20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio-Gabriel20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Gabriel20&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
