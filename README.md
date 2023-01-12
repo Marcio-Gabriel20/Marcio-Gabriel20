@@ -29,4 +29,4 @@
     </a>
 </div>
   
-![snake gif](https://github.com/Marcio-Gabriel20/Marcio-Gabriel20/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/Marcio-Gabriel20/Marcio-Gabriel20/blob/output/github-contribution-grid-snake.svg) -->
