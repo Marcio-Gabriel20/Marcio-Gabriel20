@@ -1,11 +1,6 @@
 ### Olá! Eu sou o Marcio Gabriel, seja bem-vindo ao meu Github e aos meus repositórios. 👋
 ##
 <br>
-<div align="center">
-  <a href="https://github.com/Marcio-Gabriel20">
-  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=Marcio-Gabriel20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Gabriel20&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
 <div  align="center"> 
   <div style="display: inline_block"><br>
