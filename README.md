@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu sou o Marcio Gabriel, seja bem-vindo ao meu GitHub e aos meus repositórios. 👋</h2>
+<h2 align="center">Olá! Eu sou o Marcio Gabriel, seja bem-vindo ao meu GitHub e aos meus repositórios.👋</h2>
 
 <br>
   
