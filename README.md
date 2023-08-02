@@ -18,13 +18,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto:gabriel09msn@gmail.com">
+    <a href = "mailto:gabriel09msn@gmail.com" target="_blank">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/marciogab">
+    <a href = "https://www.linkedin.com/in/marciogab" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/biel_mgts/">
+    <a href = "https://www.instagram.com/biel_mgts/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
 </div>
